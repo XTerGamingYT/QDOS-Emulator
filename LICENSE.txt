@@ -1,0 +1,15 @@
+LICENSE AGREEMENT
+
+EXTerWare 2024-2025 Softwares
+
+YOU MUST AGREE TO THE LICENSE AGREEMENT TO INSTALL THE SOFTWARE
+PLEASE NOTE THAT IF YOU WANT TO PUBLISH THIS SOFTWARE YOU HAVE TO GIVE COPYRIGHTS OF US AND THE CREDITS LISTED BELOW
+EXTERWARE CANNOT GUARENTEE YOU THAT THE PROGRAM WILL HAVE NO ERRORS AS THIS IS STILL IN EARLY ACCESS
+
+CREDITS:
+EXTerWare 2024-2025 Copyrights
+Credits to Microsoft for the boot sound
+Credits to Canva for making Canva so I could make the boot logo
+Credits to GAZELLE SYSTEMS 1991 for making QDOS
+Credits to OpenAI for making ChatGPT he helped me alot
+Credits to Inno for making the setup wizard
