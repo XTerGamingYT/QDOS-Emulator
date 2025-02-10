@@ -1,6 +1,6 @@
-# QDOS-Emulator
-# Note: This is an unofficial QDOS Emulator made in Python
-# Instructions:
+# 💻 QDOS-Emulator
+# ⚠ Note: This is an unofficial QDOS Emulator made in Python
+# 👨‍🏫Instructions:
 To install the emulator you simply just press releases then download the zip file and extract it also use run.bat because the project gives an error without run.bat
 # Credits:
 EXTerWare 2024-2025 Copyrights
