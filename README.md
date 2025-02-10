@@ -10,3 +10,4 @@ Credits to GAZELLE SYSTEMS 1991 for making QDOS
 Credits to OpenAI for making ChatGPT he helped me alot
 Credits to Pygame
 Credits to Python
+# Note: This is still under construction also please leave credits if you want to publish it somewhere else
